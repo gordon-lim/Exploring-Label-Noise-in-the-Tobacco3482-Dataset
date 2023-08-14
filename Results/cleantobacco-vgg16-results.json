@@ -1,0 +1,22 @@
+[
+    {
+        "partition": 0,
+        "test_accuracy": 0.7094240837696335
+    },
+    {
+        "partition": 1,
+        "test_accuracy": 0.7072425828970331
+    },
+    {
+        "partition": 2,
+        "test_accuracy": 0.6915357766143106
+    },
+    {
+        "partition": 3,
+        "test_accuracy": 0.712478184991274
+    },
+    {
+        "partition": 4,
+        "test_accuracy": 0.6902268760907504
+    }
+]
