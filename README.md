@@ -1,10 +1,10 @@
-# Say No To Tobacco3482: Problems with the Tobbaco3482 Document Classification Benchmark
+# Exploring Label Noise in the Tobacco3482 Dataset: Null Results and Other Issues
 
 <p align="center">
   <embed src="Figures/example-errors.pdf" />
 </p>
 
-This repository contains code and dataset annotations for the paper *Say No To Tobacco-3482: Problems with the Tobbaco-3482 Document Classification Benchmark*.
+This repository contains code and dataset annotations for the paper *Exploring Label Noise in the Tobacco3482 Dataset: Null Results and Other Issues*.
 ## Setup
 To reproduce benchmark results from the paper, please first download the Tobacco3482 dataset from Kaggle. You may follow instructions from [this tutorial](https://www.endtoend.ai/tutorial/how-to-download-kaggle-datasets-on-ubuntu/) and download the dataset from Kaggle [here](https://www.kaggle.com/datasets/patrickaudriaz/tobacco3482jpg). You should have something like the following:
 ```
